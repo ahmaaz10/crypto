@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+	<Ad id="140787">
+		<InLine>
+			<AdSystem version="2.0">Adsgarden Adserver</AdSystem>
+			<AdTitle></AdTitle>
+			<Description>Orbit car 20s</Description>
+			<Error>https://code.ainsyndication.com/v2/collect.php?k=eNpNkVtuAyEMRffiFYCBATwb6C4q85hmpCiJZtL0o-reizUPwg8-RwauDFOk35U8wXq9Pz_nAuNMWqFS40qB4DXXH07XCmNcIlGW4MFfDVdSBLK1o4-65Hp7CmkCBVvfhdeLlAYJXCKmMNmalcOI6BATssqa0Shdc3TSFwn4u8z1lusKI0uwmZxqWYZhe2cHidhKPWh3eoHD22C6b3D4EGP3DQ7vTL9f4PARffcNdo9t9Txtnd6_e396HXtOARj_ztl-vA3J2FR85TxxKhwyWsTguGTW3vjJZelzbUjl-CarfPCbrK_9A6RelvvSHvkHlb97XDA,</Error>
+			<Impression>https://code.ainsyndication.com/v2/collect.php?k=eNpNkW1uwyAMhu_iE4AJAZwL7BaT-ciK1KVVabsf0-4-UEoof-B5ZOCVzeTot5AhKOfL_TNHWDJJgUIshSzBM6cf9ucEi6emJoIrf1UsJAjaVq9e0y2k7d5IEgjY605cXE7tqJDAobfrlILQ6BA1okcWQTIqIVNwutU5An7EnLaQCizcgmXSomaZ5_2fF7SI9ShnqQ_foPvJquErdG-dG75C91qN9xt079AMX-Hlsa6Rp67Dm3dvDi_dyNlcMJa_o7cfb01Sk48mcVjZR7YBXCdEqzkGlkaZVYdWp2uTYh_TJIw1u0zPPoA6lvx9vaVS8mWrX_0Df6d9Sw,,</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="progress" offset="00:00:02">https://code.ainsyndication.com/v2/collect.php?k=eNpNkW1uwyAMhu_iE4CBXDDOBXaLyXxkRYq6aqSdpml3HyglKX_geWTglc3k6beSJajr5_ZeEsyFpEAh5kqO4FHyN4c1wxyoK01w44-GlQRB39rVW_6K-bp1kgQC9roL10s_KiTwGNyicxQGPaJBDMhcIkpGJWSO3vQ6T8D3VPI15goz92CFjGhZpmn_5wk9YjvKSZrDdxheO3X6BsM770_fYHijzvc7DO_Rnr7B02NbZ562Dm9fvT289GfODjD_Hb19e2mS0iHZzHHhkNhF1IjOcIosrbKLib3OtCalMSYtrLO7zI8xXDA5hlbWsv20v_4B_UB9rA,,</Tracking>
+							<Tracking event="creativeView">https://code.ainsyndication.com/v2/collect.php?k=eNpNkU1uxCAMRu_CCcBAXDDnAj1Bt5X5SQdpNB1N0nRR9e41yhCGDbxcJ4M_GcKAvys6FOv1a_uoWcwVlQQp5xU9ir2WH4rXXCLmiE0ZFHf6ZFxcUaJoG1-9l0cqt62RQiHFUXeh9dKOGlAEiH4xJUkLAcACRCCZFIGWqqRgW11AQd-5llsqq5ipBatoJWeZpqPPE1pEPqpJ2dM36N54PTxD9z6E4Rm6t3q836D7XDBueIanB14jD6_Tu1fvTq_CyNlAzH_nbN9ehqRNzK5QWihm8gkMgLeUEymn3WJTq7M8pNy_yUjn3SHL3j-AH0qPQlvdyzs34Gb_epF98g,,</Tracking>
+							<Tracking event="start">https://code.ainsyndication.com/v2/collect.php?k=eNpNkVtuAyEMRffiFYAZBvBsoLuozGOakaI0CtP0o8reazQPwg8-RwauDFOgv0qOoF6_188lw7SQVqjUVMkTPJfyy_FaYIrU1EBw5y_BSoqgbXL0Xh6p3NZGmkDB1nfhemmlQYKA0c9DScpiQLSIEVklzWiULinY1hcI-FwnL-WWSoWJW7CFrJIs47i9s0OLKKUetT19g8MP3nQvcHgfQvcCh7em39_g8AFd9wK7R1k9j6zTu3fvTq9Dz9lcMKbXOduPtyGZIWZXOM0cM_uEA6K3nBNrZ9xsU-uzMqR8fNOgnHebLM_9A6SuKz-kfv0Dle57BA,,</Tracking>
+							<Tracking event="firstQuartile">https://code.ainsyndication.com/v2/collect.php?k=eNpNkU1uAyEMRu_iE4AZBvBcXKDbnqAyP9MgRWkUJumiyt0LmjCEDbxcJwOfbCZHf4UMQTn_bF85wpJJChRiKWQJHjn9sj9cJ1g8NTURXFz5u2IhQdC2evWabiFdtkaSQMBed-JyakeFBA69XacUhEaHqBE9sgiSUQmZgtOtzhHwPeZ0CanAwi1YJi1qlnne_3lBi1iPcpb68A26n6wavkL31rnhK3Sv1Xi_QfcOzfAVXh7rGnnqOrx59-bw0o2cDWB5Hr39eGuSmnw0icPKPrINOCFazTGwNMqsOrQ6XZsU-5gmYazZZXr0ASiCNd_K9nnn25bb5J7_-nF-dA,,</Tracking>
+							<Tracking event="midpoint">https://code.ainsyndication.com/v2/collect.php?k=eNpNkVtuAyEMRffCCsDAXDCeDXQXlXlMg5QmUUnSjyp7L9Y8CD9wjoy5MoQB_xo6FO18vX_WLOaKSoKUc0OP4lnLL8VzEXNEVgbFjb46NpQoeOtXb-VcJ5XLnUmhkGKtO1E78VEDilww0S-mJGkhXDBYgAgkk1wi0FKVFCzXBRT0yLVcXFJpYiYOVtHKnmWa1nc24Ij9qCZlD8-we-P18B1270MYvsPurR79GXYfwA3fYfPQ18jT1-Hdu3eHV2HkZBDz65jtx9uQtInZFUoLxUw-gQHwlnJcIuW0W2ziOtuHlPdvMtJ5t8ry3D6g9_2u-XatjK9_Clh8PQ,,</Tracking>
+							<Tracking event="thirdQuartile">https://code.ainsyndication.com/v2/collect.php?k=eNpNkVFuwyAMhu_iE4CBXDDOBfa6E0wOkAWp6qok7R6m3n2glFBe4Ptk4JfN5OlvI0uwXX72rxxhzCQFCjFu5AgeOf3ydEkwTlSVJrjxd8GNBEHdytVbWkO67pUkgYCjbuFtqUeFBB5cJzfrFIRBj2gQXCdkESSjEjIFb2qdXCfge8zpGtIGI9dgmYwoWYbh-OcFNWI5ykGa01doXjvVfYHmnffdF2jeqP5-heY92u4LvDyW1fOUdXr77u3ppe85K8D4PHv78dYkpadoE4eZp8guoEZ0hmNgaZWdTah1pjQptjFpYZ09ZHq0ASiCfclr_Lzzuuc6uec_-fd-Zw,,</Tracking>
+							<Tracking event="complete">https://code.ainsyndication.com/v2/collect.php?k=eNpNkVtuAyEMRffCCsDAXDCeDXQXlXlMM9I0icok_aiy9xrNg_AD58jAlU0Y8K-iQ1GX2_o5ZzHOqCRIOVb0KJ5z-aW4FDFGbMqguNMXY0WJom189V5-UrmujRQKKba6C9VLO2pAESD6yZQkLQRcMAsQgWRSBFqqkoJtdQEFPfJcXK6pVDFSCzajlZxlGLZ_dmgR-agGZU_f4PDG6-4ZDu9D6J7h8Fb39xscPoDrnmH3wKvn4XV69-7d6VXoORuI8XX29uOtSdrE7AqliWImn8BcMHhLOZFy2k02tTrLTcrHmIx03m2yPPcB8Lvp9n1fyspDev0DCix8Mg,,</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>https://code.ainsyndication.com/v2/click.php?k=eNpNkVtuAyEMRffCCsDAXDCeDXQXlXlMM9I0icok_aiy9xrNg_AD58jAlU0Y8K-iQ1GX2_o5ZzHOqCRIOVb0KJ5z-aW4FDFGbMqguNMXY0WJom189V5-UrmujRQKKba6C9VLO2pAESD6yZQkLQRcMAsQgWRSBFqqkoJtdQEFPfJcXK6pVDFSCzajlZxlGLZ_dmgR-agGZU_f4PDG6-4ZDu9D6J7h8Fb39xscPoDrnmH3wKvn4XV69-7d6VXoORuI8XX29uOtSdrE7AqliWImn8BcMHhLOZFy2k02tTrLTcrHmIx03m2yPPcB8Lvp9n1fyspDev0DCix8Mg,,</ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile bitrate="400" width="640" height="480" scalable="true" maintainAspectRatio="true" delivery="progressive" type="video/mp4">//cdn.ainsyndication.com/2023-01/167385783663c50b2c98576.mp4</MediaFile>
+						</MediaFiles>
+						<CreativeExtensions>
+							<CreativeExtension>
+								<Extension type="skipTime">00:5</Extension>
+								<Extension type="skipTime2">00:5</Extension>
+							</CreativeExtension>
+						</CreativeExtensions>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
