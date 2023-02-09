@@ -3,7 +3,7 @@
   <Ad>
     <InLine>
       <AdSystem>Ad System Name</AdSystem>
-      <AdTitle>Ad Title</AdTitle>
+      <AdTitle>Hello</AdTitle>
       <Impression>
       </Impression>
       <Creatives>
@@ -12,9 +12,10 @@
             <Duration>00:00:30</Duration>
             <TrackingEvents>
               <Tracking event="start">
+                https://tracker.example.com/start
               </Tracking>
               <Tracking event="complete">
-            
+              https://tracker.example.com/complete
               </Tracking>
             </TrackingEvents>
             <VideoClicks>
