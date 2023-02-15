@@ -9,6 +9,7 @@
 			<Impression>https://code.ainsyndication.com/v2/collect.php?k=eNpNkW1uwyAMhu_iE1wwSfhwLrBbTCa4K1KXRqXtfky7-4xSQvkDzyMDr2zCgL8FHUK5XFzvnznBnFEro9RcXNAjPDP_ULwwzBGrGhE2-hIsqBDqJlc3vi283itpBAV73ZnKuR4Hg-CWZGP07uSiDlwn741cJ6vIOsU6WEem1gUEeqTM68IFZqrBMk5Ksli7__OCGlGO2urp8BWaH_3QvUDzPoTuBZqfhv5-heaDcd0LvLyR1fPIOrx79-7wOvScFWD-O3r78dakMDGxiSlFG41OdtApUfI8eU7KB6p1kzQptTGN1o56l_xsA5Cx5O_txqXk6ypf_QMGJn2s</Impression>
 			<Creatives>
 				<Creative>
+					<Linear skipoffset="00:00:05">
 					<Linear>
 						<TrackingEvents>
 							<Tracking event="progress" offset="00:00:02">https://code.ainsyndication.com/v2/collect.php?k=eNpNkWFuwyAMRu_iE1wwCQacC-wWkwnuihR11Wg7TdPuPlBKKH_gPRn4ZDMF-i3kCMr2eXvPCZZMWhmllkKe4JHlm-MmsERqaia48kfFQoqgbfXqVb5WudwaaQIFe92Zy7kdXCdD4NaEMXp3clGHk_fGMypGp0QHdGxaXSDge8pyWaXAwi1YJqtqFsT9n1wntIj1qFHbwzfofvbT8BW69yEMX6F7O433G3QfjBu-wtObukaeug7vXr07vA4jZwNY_o7evr00KVhhMTGliNHohJNOiZMX6yUpH7jV2dqk1Mc0I856l_LoA9B9aHnLt5_61z-EIH4N</Tracking>
@@ -25,12 +26,7 @@
 						<MediaFiles>
 							<MediaFile bitrate="400" width="640" height="480" scalable="true" maintainAspectRatio="true" delivery="progressive" type="video/mp4">//cdn.ainsyndication.com/2023-02/167621254163e8f93d6ada7.mp4</MediaFile>
 						</MediaFiles>
-						<CreativeExtensions>
-							<CreativeExtension>
-								<Extension type="skipTime">00:10</Extension>
-								<Extension type="skipTime2">00:10</Extension>
-							</CreativeExtension>
-						</CreativeExtensions>
+						
 					</Linear>
 				</Creative>
 			</Creatives>
